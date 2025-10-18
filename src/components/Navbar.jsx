@@ -1,10 +1,10 @@
-import React from 'react'
-import logo from '../assets/logo.png'
+import React from "react";
+import logo from "../assets/logo.png";
 
 const Navbar = () => {
   return (
     <div>
-      <img src={logo} alt= ""/>
+      <img src={logo} alt="" />
       <ul>
         <li>Home</li>
         <li>About</li>
@@ -14,7 +14,7 @@ const Navbar = () => {
       </ul>
       <button>Get Started</button>
     </div>
-  )
-}
+  );
+};
 
-export default Navbar
+export default Navbar;

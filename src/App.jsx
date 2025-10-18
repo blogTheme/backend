@@ -5,11 +5,12 @@ const App = () => {
   return (
     <div>
       <Navbar />
+      {/* Example: Add meaningful list items */}
       <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Home</li>
+        <li>About</li>
+        <li>Services</li>
+        <li>Contact</li>
       </ul>
     </div>
   );
