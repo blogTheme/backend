@@ -1,0 +1,254 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "phone": "+6281234567890",
+            "password": "hashedpassword1",
+            "role": "admin",
+            "date_created": "2023-01-01T10:00:00Z",
+            "date_updated": "2023-01-01T10:00:00Z"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "phone": "+6281234567891",
+            "password": "hashedpassword2",
+            "role": "user",
+            "date_created": "2023-01-02T11:00:00Z",
+            "date_updated": "2023-01-02T11:00:00Z"
+        },
+        {
+            "id": 3,
+            "name": "Peter Jones",
+            "email": "peter.jones@example.com",
+            "phone": "+6281234567892",
+            "password": "hashedpassword3",
+            "role": "user",
+            "date_created": "2023-01-03T12:00:00Z",
+            "date_updated": "2023-01-03T12:00:00Z"
+        },
+        {
+            "id": 4,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "phone": "+6281345678903",
+            "password": "hashedpassword4",
+            "role": "user",
+            "date_created": "2023-01-04T10:00:00Z",
+            "date_updated": "2023-01-04T10:00:00Z"
+        },
+        {
+            "id": 5,
+            "name": "Bob Williams",
+            "email": "bob.williams@example.com",
+            "phone": "+6281345678904",
+            "password": "hashedpassword5",
+            "role": "user",
+            "date_created": "2023-01-05T10:00:00Z",
+            "date_updated": "2023-01-05T10:00:00Z"
+        },
+        {
+            "id": 6,
+            "name": "Charlie Brown",
+            "email": "charlie.brown@example.com",
+            "phone": "+6281345678905",
+            "password": "hashedpassword6",
+            "role": "editor",
+            "date_created": "2023-01-06T10:00:00Z",
+            "date_updated": "2023-01-06T10:00:00Z"
+        },
+        {
+            "id": 7,
+            "name": "Diana Miller",
+            "email": "diana.miller@example.com",
+            "phone": "+6281345678906",
+            "password": "hashedpassword7",
+            "role": "user",
+            "date_created": "2023-01-07T10:00:00Z",
+            "date_updated": "2023-01-07T10:00:00Z"
+        },
+        {
+            "id": 8,
+            "name": "Ethan Davis",
+            "email": "ethan.davis@example.com",
+            "phone": "+6281345678907",
+            "password": "hashedpassword8",
+            "role": "user",
+            "date_created": "2023-01-08T10:00:00Z",
+            "date_updated": "2023-01-08T10:00:00Z"
+        },
+        {
+            "id": 9,
+            "name": "Fiona Garcia",
+            "email": "fiona.garcia@example.com",
+            "phone": "+6281345678908",
+            "password": "hashedpassword9",
+            "role": "user",
+            "date_created": "2023-01-09T10:00:00Z",
+            "date_updated": "2023-01-09T10:00:00Z"
+        },
+        {
+            "id": 10,
+            "name": "George Rodriguez",
+            "email": "george.rodriguez@example.com",
+            "phone": "+6281345678909",
+            "password": "hashedpassword10",
+            "role": "admin",
+            "date_created": "2023-01-10T10:00:00Z",
+            "date_updated": "2023-01-10T10:00:00Z"
+        },
+        {
+            "id": 11,
+            "name": "Hannah Wilson",
+            "email": "hannah.wilson@example.com",
+            "phone": "+6281345678910",
+            "password": "hashedpassword11",
+            "role": "user",
+            "date_created": "2023-01-11T10:00:00Z",
+            "date_updated": "2023-01-11T10:00:00Z"
+        },
+        {
+            "id": 12,
+            "name": "Ian Martinez",
+            "email": "ian.martinez@example.com",
+            "phone": "+6281345678911",
+            "password": "hashedpassword12",
+            "role": "user",
+            "date_created": "2023-01-12T10:00:00Z",
+            "date_updated": "2023-01-12T10:00:00Z"
+        },
+        {
+            "id": 13,
+            "name": "Julia Anderson",
+            "email": "julia.anderson@example.com",
+            "phone": "+6281345678912",
+            "password": "hashedpassword13",
+            "role": "editor",
+            "date_created": "2023-01-13T10:00:00Z",
+            "date_updated": "2023-01-13T10:00:00Z"
+        },
+        {
+            "id": 14,
+            "name": "Kevin Taylor",
+            "email": "kevin.taylor@example.com",
+            "phone": "+6281345678913",
+            "password": "hashedpassword14",
+            "role": "user",
+            "date_created": "2023-01-14T10:00:00Z",
+            "date_updated": "2023-01-14T10:00:00Z"
+        },
+        {
+            "id": 15,
+            "name": "Laura Thomas",
+            "email": "laura.thomas@example.com",
+            "phone": "+6281345678914",
+            "password": "hashedpassword15",
+            "role": "user",
+            "date_created": "2023-01-15T10:00:00Z",
+            "date_updated": "2023-01-15T10:00:00Z"
+        },
+        {
+            "id": 16,
+            "name": "Mike Hernandez",
+            "email": "mike.hernandez@example.com",
+            "phone": "+6281345678915",
+            "password": "hashedpassword16",
+            "role": "user",
+            "date_created": "2023-01-16T10:00:00Z",
+            "date_updated": "2023-01-16T10:00:00Z"
+        },
+        {
+            "id": 17,
+            "name": "Nora Moore",
+            "email": "nora.moore@example.com",
+            "phone": "+6281345678916",
+            "password": "hashedpassword17",
+            "role": "user",
+            "date_created": "2023-01-17T10:00:00Z",
+            "date_updated": "2023-01-17T10:00:00Z"
+        },
+        {
+            "id": 18,
+            "name": "Oscar Martin",
+            "email": "oscar.martin@example.com",
+            "phone": "+6281345678917",
+            "password": "hashedpassword18",
+            "role": "user",
+            "date_created": "2023-01-18T10:00:00Z",
+            "date_updated": "2023-01-18T10:00:00Z"
+        },
+        {
+            "id": 19,
+            "name": "Pamela Jackson",
+            "email": "pamela.jackson@example.com",
+            "phone": "+6281345678918",
+            "password": "hashedpassword19",
+            "role": "user",
+            "date_created": "2023-01-19T10:00:00Z",
+            "date_updated": "2023-01-19T10:00:00Z"
+        },
+        {
+            "id": 20,
+            "name": "Quincy White",
+            "email": "quincy.white@example.com",
+            "phone": "+6281345678919",
+            "password": "hashedpassword20",
+            "role": "user",
+            "date_created": "2023-01-20T10:00:00Z",
+            "date_updated": "2023-01-20T10:00:00Z"
+        },
+        {
+            "id": 21,
+            "name": "Rachel Harris",
+            "email": "rachel.harris@example.com",
+            "phone": "+6281345678920",
+            "password": "hashedpassword21",
+            "role": "user",
+            "date_created": "2023-01-21T10:00:00Z",
+            "date_updated": "2023-01-21T10:00:00Z"
+        },
+        {
+            "id": 22,
+            "name": "Steve Clark",
+            "email": "steve.clark@example.com",
+            "phone": "+6281345678921",
+            "password": "hashedpassword22",
+            "role": "user",
+            "date_created": "2023-01-22T10:00:00Z",
+            "date_updated": "2023-01-22T10:00:00Z"
+        },
+        {
+            "id": 23,
+            "name": "Tina Lewis",
+            "email": "tina.lewis@example.com",
+            "phone": "+6281345678922",
+            "password": "hashedpassword23",
+            "role": "user",
+            "date_created": "2023-01-23T10:00:00Z",
+            "date_updated": "2023-01-23T10:00:00Z"
+        },
+        {
+            "id": 24,
+            "name": "Uma Walker",
+            "email": "uma.walker@example.com",
+            "phone": "+6281345678923",
+            "password": "hashedpassword24",
+            "role": "user",
+            "date_created": "2023-01-24T10:00:00Z",
+            "date_updated": "2023-01-24T10:00:00Z"
+        },
+        {
+            "id": 25,
+            "name": "Victor Hall",
+            "email": "victor.hall@example.com",
+            "phone": "+6281345678924",
+            "password": "hashedpassword25",
+            "role": "user",
+            "date_created": "2023-01-25T10:00:00Z",
+            "date_updated": "2023-01-25T10:00:00Z"
+        }
+    ]
+}

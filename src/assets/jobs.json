@@ -1,0 +1,144 @@
+{
+    "jobs":[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "type": "Full-time",
+        "description": "Develop and maintain software applications.",
+        "location": "San Francisco, CA",
+        "salary": "$120,000 - $150,000",
+        "company": {
+            "name": "Tech Solutions Inc.",
+            "description": "A leading technology company specializing in innovative software solutions.",
+            "contactEmail": "contact@techsolutions.com",
+            "contactPhone": "555-123-4567"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Web Developer",
+        "type": "Full-time",
+        "description": "Design and implement user interfaces for web applications.",
+        "location": "New York, NY",
+        "salary": "$90,000 - $110,000",
+        "company": {
+            "name": "Web Innovations LLC",
+            "description": "A creative agency focused on building engaging web experiences.",
+            "contactEmail": "info@webinnovations.com",
+            "contactPhone": "555-987-6543"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Data Scientist",
+        "type": "Full-time",
+        "description": "Analyze large datasets to extract insights and build predictive models.",
+        "location": "Seattle, WA",
+        "salary": "$130,000 - $160,000",
+        "company": {
+            "name": "Data Insights Corp.",
+            "description": "A data-driven company providing advanced analytics services.",
+            "contactEmail": "careers@datainsights.com",
+            "contactPhone": "555-234-5678"
+        }
+    },
+    {
+        "id": 4,
+        "title": "UX Designer",
+        "type": "Contract",
+        "description": "Create intuitive and user-friendly designs for digital products.",
+        "location": "Austin, TX",
+        "salary": "$80,000 - $100,000",
+        "company": {
+            "name": "Creative Designs Co.",
+            "description": "A design studio specializing in user experience and interface design.",
+            "contactEmail": "design@creativedesigns.com",
+            "contactPhone": "555-876-5432"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Project Manager",
+        "type": "Full-time",                    
+        "description": "Oversee projects from inception to completion, ensuring they meet client requirements.",
+        "location": "Remote",
+        "salary": "$100,000 - $130,000",
+        "company": {
+            "name": "Business Solutions Ltd.",
+            "description": "A consultancy firm providing strategic business solutions.",
+            "contactEmail": "careers@businesssolutions.com",
+            "contactPhone": "555-345-6789"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Marketing Specialist",
+        "type": "Part-time",
+        "description": "Develop and execute marketing campaigns to promote products and services.",
+        "location": "Chicago, IL",
+        "salary": "$60,000 - $80,000",
+        "company": {
+            "name": "Market Leaders Inc.",
+            "description": "A marketing agency focused on delivering impactful campaigns.",
+            "contactEmail": "marketing@marketleaders.com",
+            "contactPhone": "555-765-4321"
+        }
+    },
+    {
+        "id": 7,
+        "title": "IT Support Specialist",
+        "type": "Full-time",
+        "description": "Provide technical support and troubleshooting assistance to end-users.",
+        "location": "Remote",
+        "salary": "$50,000 - $70,000",
+        "company": {
+            "name": "Tech Support Co.",
+            "description": "A company dedicated to providing top-notch IT support services.",
+            "contactEmail": "support@techsupport.com",
+            "contactPhone": "555-654-3210"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Business Analyst",
+        "type": "Full-time",
+        "description": "Analyze business processes and recommend improvements to enhance efficiency.",
+        "location": "Boston, MA",
+        "salary": "$90,000 - $120,000",
+        "company": {
+            "name": "Enterprise Solutions Inc.",
+            "description": "A firm specializing in business process optimization and consulting.",
+            "contactEmail": "analysis@enterprisesolutions.com",
+            "contactPhone": "555-543-2109"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Graphic Designer",
+        "type": "Contract",
+        "description": "Create visual content for marketing materials, websites, and social media.",
+        "location": "Los Angeles, CA",
+        "salary": "$70,000 - $90,000",
+        "company": {
+            "name": "Visual Arts Studio",
+            "description": "A creative agency specializing in graphic design and branding.",
+            "contactEmail": "info@visualartsstudio.com",
+            "contactPhone": "555-432-1098"
+        }
+    },
+    {
+        "id": 10,
+        "title": "HR Manager",
+        "type": "Full-time",
+        "description": "Manage recruitment, employee relations, and organizational development.",
+        "location": "Denver, CO",
+        "salary": "$110,000 - $140,000",
+        "company": {
+            "name": "People First HR",
+            "description": "An HR consultancy focused on building strong workplace cultures.",
+            "contactEmail": "careers@peoplefirsthr.com",
+            "contactPhone": "555-321-0987"
+        }
+    }
+]
+}
